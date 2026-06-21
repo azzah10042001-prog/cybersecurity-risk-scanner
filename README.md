@@ -47,6 +47,32 @@ This project focuses on improving human cybersecurity awareness by translating c
 
 ---
 
+## 🛠️ Tech Stack
+
+- React (JSX)
+- Prompt Engineering
+- Cybersecurity threat modeling
+- AI-assisted development
+
+---
+
+## 🤖 AI-Assisted Development
+
+This project was created using an AI-assisted workflow.
+
+Development support:
+- Claude Code
+- Project Artifact:
+  https://claude.ai/public/artifacts/38f7c460-dee9-4d13-9833-0992875358e0
+
+AI was used to support ideation, iteration, and implementation while the project direction and presentation were curated manually.
+
+---
+
+## 🎯 Project Goal
+
+The main goal of this project is to bridge the gap between cybersecurity threats and everyday users by providing an easy-to-understand risk analysis system.
+
 ## 🎯 Project Goal
 
 Bridge the gap between cybersecurity threats and everyday users.
@@ -57,13 +83,13 @@ Translate technical risks into easy-to-understand insights.
 
 ## 🖼️ Preview
 
-### Input Example
-
+### Input Example 
+![Input Example](Screenshot%202026-06-21%20185607.png)
 
 ### Analysis Result
+![Result Example](Screenshot%202026-06-21%20185624.png)
+![Result Example](Screenshot%202026-06-21%20185724.png)
 
-
-### Threat Breakdown
 
 
 ---
