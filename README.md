@@ -85,4 +85,4 @@ Educational purposes only.
 
 ## 👤 Author
 
-Built by [YOUR NAME]
+Built by AZZAH LUTHFIATUSSUNDUS
