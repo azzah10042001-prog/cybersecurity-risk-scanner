@@ -5,11 +5,6 @@ This project focuses on improving human cybersecurity awareness by translating c
 
 ---
 
-## 🚀 Live Demo
-👉 Coming Soon
-
----
-
 ## 📌 Key Features
 
 - 🔍 Threat level classification (Safe → Critical)
@@ -96,6 +91,16 @@ This tool is designed for cybersecurity awareness and educational purposes only.
 Risk assessments are AI-generated and should not be considered a replacement for professional security analysis or incident response services.
 
 ---
+
+## 🔮 Future Improvements
+
+- URL reputation checking
+- Email header analysis
+- Risk history tracking
+- Multi-language support
+- Integration with threat intelligence feeds
+
+--- 
 
 ## 👤 Author
 
