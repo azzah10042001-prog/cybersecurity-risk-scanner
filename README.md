@@ -32,26 +32,28 @@ This project focuses on improving human cybersecurity awareness by translating c
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Concepts
 
-- React (JSX)
-- Vite
+- AI-Assisted Development
 - Prompt Engineering
-- AI-assisted development
 - Cybersecurity Awareness
+- Threat Analysis
+- Risk Classification
 
 ---
 
 ## 🤖 AI-Assisted Development
 
-This project was created using an AI-assisted workflow.
+This project was created using an AI-assisted workflow with Claude.
 
 Development support:
 - Claude Code
 - Project Artifact:
   https://claude.ai/public/artifacts/38f7c460-dee9-4d13-9833-0992875358e0
 
-The project concept, feature selection, cybersecurity use cases, testing, documentation, and final presentation were defined and curated by the project owner. AI tools were used to accelerate development and implementation.
+The project concept, cybersecurity use cases, feature requirements, testing, evaluation, documentation, and final presentation were defined and curated by the project owner.
+
+AI was used to generate and iterate on the prototype implementation, while the overall project direction and user-focused design decisions were determined by the project owner.
 
 ---
 
