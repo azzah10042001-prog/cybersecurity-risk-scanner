@@ -49,7 +49,7 @@ This project was created using an AI-assisted workflow with Claude.
 Development support:
 - Claude Code
 - Project Artifact:
-  https://claude.ai/public/artifacts/38f7c460-dee9-4d13-9833-0992875358e0
+  https://claude.ai/public/artifacts/087486c9-2d6f-4ce8-a43e-9848cfb6c8e9
 
 The project concept, cybersecurity use cases, feature requirements, testing, evaluation, documentation, and final presentation were defined and curated by the project owner.
 
